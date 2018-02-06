@@ -1,1 +1,1 @@
-# wether
+Открыть index.php
